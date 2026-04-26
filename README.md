@@ -40,6 +40,7 @@ or not with 98% accuracy.
 
 ## 📁 Project Structure
 
+```
 spam_detector_ml/
 ├── dataset/
 │ └── spam.csv
@@ -49,9 +50,9 @@ spam_detector_ml/
 ├── src/
 │ ├── main.py
 │ └── predict.py
-├── frontend_ui/
 │ └── app.py
 └── requirements.txt
+```
 
 ## ⚙️ How to Run Locally
 
