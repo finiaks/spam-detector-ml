@@ -6,7 +6,7 @@ and Naive Bayes Classification.
 
 ## 🔗 Live Demo
 
-[Click here to try the app]()
+[Click here to try the app](https://spam-detectorapp.streamlit.app)
 
 ## 📌 Project Overview
 
