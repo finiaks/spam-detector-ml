@@ -60,7 +60,7 @@ spam_detector_ml/
 2. Install requirements
    pip install -r requirements.txt
 3. Run the app
-   streamlit run frontend_ui/app.py
+   streamlit run src/app.py
 
 ## 📦 Dataset
 
